@@ -1,4 +1,5 @@
-insta-face
+Insta-Face
 ==========
 
-Just a test.
+App in development.
+Android / iOS
